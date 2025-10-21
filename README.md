@@ -1,2 +1,12 @@
-# ProjectManagment_group31
-This project for all phase of 1st semester Master's degree
+# Команда 31
+
+## Участники
+- **Клоков Евгений**  
+- **Сошич Мирослав**  
+- **Обухов Никита**
+
+---
+
+## Проектная информация
+- [Фаза 1](docs/) — выполнение 1 фазы  
+
