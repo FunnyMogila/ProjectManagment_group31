@@ -57,7 +57,7 @@
 | A3 — TaskTrack | 0.564 |
 | A4 — FinMate | 0.812 |
 
-** Рейтинг по TOPSIS:**
+**Рейтинг по TOPSIS:**
 
 1. FinMate (Expense Tracker)  
 2. WorkTimeBot (Telegram-бот)  
@@ -86,7 +86,7 @@
 | A3 | 7 | 6 | 3 | 8 | 6.27 |
 | A4 | 9 | 8 | 4 | 9 | 8.12 |
 
-** Рейтинг по AHP:**
+**Рейтинг по AHP:**
 
 1. A4 — FinMate  
 2. A1 — WorkTimeBot  
