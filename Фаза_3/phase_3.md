@@ -136,7 +136,7 @@
 Таблица расчетов SP по use-case -> [Expert Estimation](https://1drv.ms/x/c/7d74f1ca817b07c9/IQDKsMwlYjnXTrCoCgUn0JxWAQrmxcTxZBJahfJ-8wa7nt4?e=5LJzRd)
 
 ---
-### 6. Сводные выводы по масштабам проекта, команде и срокам
+### 6. Сводные выводы по масштабам проекта, команде и срокам(LLM-production)
 
 #### 6.1 Масштаб проекта
 
