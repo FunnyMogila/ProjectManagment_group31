@@ -1,7 +1,7 @@
 # Команда 31
 
 ## Участники
-- [**Клоков Евгений**](https://github.com/e9nchrv)
+- [**Клоков Евгений**](https://github.com/e9nchrvv)
 - [**Сошич Мирослав**](https://github.com/FunnyMogila)
 - [**Обухов Никита**](https://github.com/AL1ATE)
 
